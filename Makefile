@@ -1,5 +1,5 @@
 PKG_NAME := rosdistro
-URL = https://files.pythonhosted.org/packages/15/3f/6053492e43fb6b9625f57fc72772f333e58a4ff08f96d400361491fce486/rosdistro-0.6.8.tar.gz
+URL = https://files.pythonhosted.org/packages/16/29/8ba39bfeb2d1e5c5a8ce37c814ed673eb0f1be2a127b44e3eec39475f9fd/rosdistro-0.6.9.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
