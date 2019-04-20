@@ -4,7 +4,7 @@
 #
 Name     : rosdistro
 Version  : 0.7.3
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/04/30/665c0ed60529fbcc7122b270f22f65939fb003d44c7e810c67186435561a/rosdistro-0.7.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/04/30/665c0ed60529fbcc7122b270f22f65939fb003d44c7e810c67186435561a/rosdistro-0.7.3.tar.gz
 Summary  : A tool to work with rosdistro files
