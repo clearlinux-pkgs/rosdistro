@@ -4,7 +4,7 @@
 #
 Name     : rosdistro
 Version  : 0.8.0
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/96/97/2393e79aaf190c1780109ecd84005b037e69ec4724f437384000bd6e67d2/rosdistro-0.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/96/97/2393e79aaf190c1780109ecd84005b037e69ec4724f437384000bd6e67d2/rosdistro-0.8.0.tar.gz
 Summary  : A tool to work with rosdistro files
