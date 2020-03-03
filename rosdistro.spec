@@ -4,7 +4,7 @@
 #
 Name     : rosdistro
 Version  : 0.8.0
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/96/97/2393e79aaf190c1780109ecd84005b037e69ec4724f437384000bd6e67d2/rosdistro-0.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/96/97/2393e79aaf190c1780109ecd84005b037e69ec4724f437384000bd6e67d2/rosdistro-0.8.0.tar.gz
 Summary  : A tool to work with rosdistro files
@@ -55,6 +55,7 @@ python components for the rosdistro package.
 Summary: python3 components for the rosdistro package.
 Group: Default
 Requires: python3-core
+Provides: pypi(rosdistro)
 
 %description python3
 python3 components for the rosdistro package.
@@ -69,7 +70,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1575999315
+export SOURCE_DATE_EPOCH=1583220630
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
